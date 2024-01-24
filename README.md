@@ -8,7 +8,7 @@ Finally, if you're interested in my work or projects, feel free to check out my 
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofine&theme=gotham&layout=compact"width="40%"/> 
 </p>
 <p align="left">
 <a href="https://github.com/yofine?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=yofine&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Yofine's github-readme-stats"/></a>
