@@ -7,6 +7,6 @@ In my spare time, I have a hobby: model-making. 🤖 I'm a Gundam model enthusia
 Finally, if you're interested in my work or projects, feel free to check out my GitHub or connect with me on social media. Thanks for reading! 😊
 
 
-| <a href="https://github.com/yofine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yofine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/yofine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofine&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/yofine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yofine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yofine's github stats" /></a> | <a href="https://github.com/yofine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofine&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
